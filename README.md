@@ -1,5 +1,6 @@
 # Medium
-![1_jfdwtvU6V6g99q3G7gq7dQ1](https://github.com/ArkS0001/Medium/assets/113760964/0c86e3f1-c8bc-44b7-b1d3-82d004e3203d)
+![COLLINS_MEDIUM_00](https://github.com/ArkS0001/Medium/assets/113760964/0d4b0ee7-eb41-4ec6-b83c-a6dad551faae)
+
 
 https://medium.com/@shubh26002/energy-temperature-performance-trade-off-in-processing-units-cpu-gpu-dpu-tpu-npu-vpu-qpu-cd8eecc33a7f
 
